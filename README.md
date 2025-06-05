@@ -17,3 +17,10 @@ conda activate DynaRNA
 ## Install DynaRNA as a package
 pip install -e .
 ```
+## Inference
+```
+python infer_DynaRNA.py
+```
+
+## Contact
+If you have any question, you can contact me with lizhengxin@sjtu.edu.cn
