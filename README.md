@@ -17,6 +17,11 @@ conda activate DynaRNA
 ## Install DynaRNA as a package
 pip install -e .
 ```
+After installation, you can obtain the model pkl file from 
+```
+https://zenodo.org/records/15600148/files/DynaRNA.pkl
+```
+
 ## Inference
 ```
 python infer_DynaRNA.py
