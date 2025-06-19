@@ -17,7 +17,7 @@ conda activate DynaRNA
 ## Install DynaRNA as a package
 pip install -e .
 ```
-After installation, you can obtain the model pkl file from 
+After installation, you can obtain the model pkl file and store it in ./ckpt/ from 
 ```
 https://zenodo.org/records/15600148/files/DynaRNA.pkl
 ```
